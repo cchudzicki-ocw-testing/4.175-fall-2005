@@ -4,7 +4,12 @@ description: This resources contains the project report on historical analysis i
   alexandria.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/4-175-case-studies-in-city-form-fall-2005/9518dfa367f16291d0ea4676f88fd137_hstricl_anlys.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: hstricl_anlys.pdf
+type: OCWFile
 uid: 9518dfa3-67f1-6291-d0ea-4676f88fd137
 ---

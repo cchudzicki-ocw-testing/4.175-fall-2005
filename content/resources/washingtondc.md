@@ -4,7 +4,12 @@ description: This resources contains the project report on city study of washing
   dc.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/4-175-case-studies-in-city-form-fall-2005/26e95711eba8f24059bca580e1a41f3f_washingtondc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: washingtondc.pdf
+type: OCWFile
 uid: 26e95711-eba8-f240-59bc-a580e1a41f3f
 ---

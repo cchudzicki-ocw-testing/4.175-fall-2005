@@ -4,7 +4,12 @@ description: This resources contains the project report on block and building ty
   in amsterdam.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/4-175-case-studies-in-city-form-fall-2005/340260e888493017186e1dd9825b6041_chapter2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: chapter2.pdf
+type: OCWFile
 uid: 340260e8-8849-3017-186e-1dd9825b6041
 ---

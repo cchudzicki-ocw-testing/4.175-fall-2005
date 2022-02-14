@@ -4,7 +4,12 @@ description: This resource contains the project report on historical development
   amsterdam.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/4-175-case-studies-in-city-form-fall-2005/3d454445270e0ee731efa57fb5eba180_chapter1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: chapter1.pdf
+type: OCWFile
 uid: 3d454445-270e-0ee7-31ef-a57fb5eba180
 ---
