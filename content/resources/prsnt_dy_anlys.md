@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: prsnt_dy_anlys.pdf
-type: OCWFile
 uid: 0ef8782e-77dc-92fe-9c94-723714e1e43c
 ---

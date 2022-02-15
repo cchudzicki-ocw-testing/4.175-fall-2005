@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: historic_devlpmt.pdf
-type: OCWFile
 uid: 26fd4976-bf96-2be8-5447-679444e4eb0a
 ---

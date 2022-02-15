@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: civic_structure.pdf
-type: OCWFile
 uid: 27abf008-b429-e576-2ccb-6e6a7c6b1393
 ---

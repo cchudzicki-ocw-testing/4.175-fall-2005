@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: washingtondc.pdf
-type: OCWFile
 uid: 26e95711-eba8-f240-59bc-a580e1a41f3f
 ---

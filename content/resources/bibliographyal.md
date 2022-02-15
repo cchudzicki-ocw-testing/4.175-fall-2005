@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: bibliographyal.pdf
-type: OCWFile
 uid: 810880ec-862a-1d9f-36a8-fe7c0840389d
 ---

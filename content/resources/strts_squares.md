@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: strts_squares.pdf
-type: OCWFile
 uid: a4a3c3f0-66e6-046d-4dda-b9b5adbca77d
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: chapter1.pdf
-type: OCWFile
 uid: 3d454445-270e-0ee7-31ef-a57fb5eba180
 ---

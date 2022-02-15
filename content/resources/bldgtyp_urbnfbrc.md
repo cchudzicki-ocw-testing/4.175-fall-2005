@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: bldgtyp_urbnfbrc.pdf
-type: OCWFile
 uid: 2c4e8102-d366-2f7a-59c3-2313c726a3ea
 ---

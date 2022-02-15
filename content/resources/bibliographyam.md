@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: bibliographyam.pdf
-type: OCWFile
 uid: 4503dd60-753d-6461-ebf6-c34e572cbb19
 ---

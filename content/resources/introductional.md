@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: introductional.pdf
-type: OCWFile
 uid: c853c14e-dd4c-460b-2a43-ac02f08dfbfa
 ---

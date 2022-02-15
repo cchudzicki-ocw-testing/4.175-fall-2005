@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: block_study.pdf
-type: OCWFile
 uid: 4459b01d-902e-fd37-9a13-3885811217df
 ---

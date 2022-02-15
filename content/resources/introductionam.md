@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: introductionam.pdf
-type: OCWFile
 uid: b554e371-53d9-e979-5aac-f696d7aec2d6
 ---

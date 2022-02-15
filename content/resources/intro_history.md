@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: intro_history.pdf
-type: OCWFile
 uid: f5455a09-8348-9456-fc59-1b5f62f4156b
 ---

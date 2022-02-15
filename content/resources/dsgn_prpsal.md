@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: dsgn_prpsal.pdf
-type: OCWFile
 uid: 84ba8eae-2b62-7387-c3e4-ae1cd6413fd1
 ---

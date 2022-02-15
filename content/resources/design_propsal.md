@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: design_propsal.pdf
-type: OCWFile
 uid: 13a07ad6-3e8d-4edc-e8bf-a4f5e95cd364
 ---
