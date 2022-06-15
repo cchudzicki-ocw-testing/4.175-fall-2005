@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains preface, list of readings associated with the course
+  material and shedule.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

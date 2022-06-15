@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the student projects developed over the course
+  of the semester.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
