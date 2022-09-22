@@ -5,6 +5,7 @@ file: /courses/4-175-case-studies-in-city-form-fall-2005/84ba8eae2b627387c3e4ae1
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
